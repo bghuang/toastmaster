@@ -8,7 +8,7 @@
 
 | No. | Date | Type | TM | Journalist | Prepared Speaker 1 | Prepared Speaker 2 | Prepared Speaker 3 | Prepared Speaker 4 | Prepared Speaker 5 |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 414 | "2018/8/23 | Speech Marathon | Dou Quincy | Wang Walter | Yan Kunling | Huan Guili | Sun Angie | Wang Yinping | Huo Cuiping |  |
+| 414 | 2018/8/23 | Speech Marathon | Dou Quincy | Wang Walter | Yan Kunling | Huan Guili | Sun Angie | Wang Yinping | Huo Cuiping |  |
 | 415 | 2018/8/30 | Regular meeting | Sun Angie | Dou Quincy | Jiang Linqiu | Cao Jie |  |  |  |  |
 | 416 | 2018/9/6 | Evaluation | Huang Baogui | Han Guili | Dou Quincy \(P\_L1\_Evaluate1\) | Huo Cuiping | Zhan Xiaoxi |  |  |  |
 |  | Fall Contest | Mandarin Speech |  |  | Zhang Yang \(AC9\) | Huang Baogui | Zhang Nathon \(CC4\) | An Na \(CC3\) | Shi Tingting \(AC4\) | Wang Walter \(CC4\) |
