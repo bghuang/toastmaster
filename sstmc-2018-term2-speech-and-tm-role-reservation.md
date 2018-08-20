@@ -1,20 +1,24 @@
 # SSTMC 2018 term2 Speech and TM Role Reservation
 
-![](.gitbook/assets/image.png)
-
-
+![](.gitbook/assets/image%20%282%29.png)
 
 
 
 | No. | Date | Type | TM | Journalist | Prepared Speaker 1 | Prepared Speaker 2 | Prepared Speaker 3 | Prepared Speaker 4 | Prepared Speaker 5 |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 414 | 2018/8/23 | Speech Marathon | Dou Quincy | Wang Walter | Yan Kunling | Huan Guili | Sun Angie | Wang Yinping | Huo Cuiping |  |
+| 408 | 2018/7/12 | Regular meeting | Zhang Nathan | Sun Angie | Li Weiwei | An Na |  |  |  |  |
+| 409 | 2018/7/19 | Table Topic Marathon | Wang Walter\(CC3\) | Zhang Yang |  |  |  |  |  |  |
+| 410 | 2018/7/26 | Regular meeting | Yang kunling | Zhang Yang | Wang Walter | Huo Cuiping |  |  |  |  |
+| 411 | 2018/8/2 | Regular meeting | Tian Emily | Cao Jie | Wang Xiaoyan | Huang Baogui |  |  |  |  |
+| 412 | 2018/8/9 | Regular meeting | Duan Wei | Huang Baogui | Dou Quincy | Zhang Yang |  |  |  |  |
+| 413 | 2018/8/16 | Regular meeting | Huang Baogui | Duan Wei | Zhang Nathan | Liu Xiaojian |  |  |  |  |
+| 414 | 2018/8/23 | Speech Marathon | Dou Quincy | Wang Walter | Yang Kunling \(P\_L1\_IceBreak\) | Han Guili\(CC8\) | Sun Angie \(CC6\) | Wang Yinping \(P\_L1\_IceBreak\) | Huo Cuiping |  |
 | 415 | 2018/8/30 | Regular meeting | Sun Angie | Dou Quincy | Jiang Linqiu | Cao Jie |  |  |  |  |
 | 416 | 2018/9/6 | Evaluation | Huang Baogui | Han Guili | Dou Quincy \(P\_L1\_Evaluate1\) | Huo Cuiping | Zhan Xiaoxi |  |  |  |
 |  | Fall Contest | Mandarin Speech |  |  | Zhang Yang \(AC9\) | Huang Baogui | Zhang Nathon \(CC4\) | An Na \(CC3\) | Shi Tingting \(AC4\) | Wang Walter \(CC4\) |
 | 417 | 2018/9/13 | Regular meeting | Han Guili | Wang Yinping | Huo Cuiping | Zhang Lijing |  |  |  |  |
-| 418 | "2018/9/20 | Contest rehearsal | Huang Baogui | Huo Cuiping |  |  |  |  |  |  |
-| 419 | "2018/9/27 | Joint meeting | Huo Cuiping |  | Duan Wei |  |  |  |  |  |
+| 418 | 2018/9/20 | Contest rehearsal | Huang Baogui | Huo Cuiping |  |  |  |  |  |  |
+| 419 | 2018/9/27 | Joint meeting | Huo Cuiping |  | Duan Wei |  |  |  |  |  |
 |  | 2018/10/4 | Vacation |  |  |  |  |  |  |  |  |
 | 420 | 2018/10/11 | Table Topic Marathon | Wang Yinping | Zhan Xiaoxi |  |  |  |  |  |  |
 | 421 | 2018/10/18 | Joint meeting | Han Guili |  | Dou Quincy \(P\_L1\_Evaluate2\) |  |  |  |  |  |
