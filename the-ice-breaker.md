@@ -60,7 +60,7 @@ The third day.
 
 My third hobby is visit museum, art gallery and history spot. It still come from curiosity. When I was travelling in different countries, I spent almost all free weekends on it. From there I know their history and their culture. Exhibitions really gave me more information of this interesting world.
 
-~~I grew up with curiosity. I want to know more about the world, and also about Toastmasters, that’s why I join SSTMC. I came here because I feel curious about this organization and now I am closer and closer to it. I am glad  being here with you, keeping positive and energetic here.~~
+~~I grew up with curiosity. I want to know more about the world, and also about Toastmasters, that’s why I join SSTMC. I came here because I feel curious about this organization and now I am closer and closer to it. I am glad being here with you, keeping positive and energetic here.~~
 
 My Friends, World is wide. To know it and to understand it, you must be full of curiosity to search to discover the wonderful of life. with curiosity you will never feel boring, and you will always keep positive. Every morning, when you open your eyes, you will always see a new wonderful world.
 

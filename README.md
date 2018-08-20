@@ -1,7 +1,3 @@
----
-description: The footprint in the sand shows where you have been.
----
-
 # Preface
 
 ## Writing Motivation
