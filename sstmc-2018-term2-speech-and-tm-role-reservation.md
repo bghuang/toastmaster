@@ -16,7 +16,6 @@
 | 417 | 2018/9/13 | Regular meeting | an GuiliH | Wang Yinping | Huo Cuiping | Zhang Lijing |  |  |  |  |
 | 418 | 2018/9/20 | Evaluation | Huang Baogui | Han Guili | Dou Quincy \(P\_L1\_Evaluate1\) | Huo Cuiping | Zhan Xiaoxi |  |  |  |
 |  | Fall Contest | Mandarin Speech |  |  | Zhang Yang \(AC9\) | Huang Baogui | Zhang Nathon \(CC4\) | An Na \(CC3\) | Shi Tingting \(AC4\) | Wang Walter \(CC4\) |
-| 418 | 2018/9/20 | Contest rehearsal | Huang Baogui | Huo Cuiping |  |  |  |  |  |  |
 | 419 | 2018/9/27 | Joint meeting | Huo Cuiping |  | Duan Wei |  |  |  |  |  |
 |  | 2018/10/4 | Vacation |  |  |  |  |  |  |  |  |
 | 420 | 2018/10/11 | Table Topic Marathon | Wang Yinping | Zhan Xiaoxi |  |  |  |  |  |  |
